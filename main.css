@@ -1,0 +1,157 @@
+ *{
+    padding:0;
+    margin:0;
+}
+
+body{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.temp{
+    width: 80%;
+    height: 854px;
+    border: 1px solid red;
+    margin-top: 30px;
+    display: flex;
+    
+
+}
+
+.left{
+    width: 40%;
+    height: 100%;
+    background-color: #2f6be7;
+}
+
+
+.right{
+    width: 60%;
+    height: 100%;
+}
+
+h2{
+   color: white;
+    margin-top: 50px;
+    padding-left: 25px;
+}
+
+.name{
+    font-size: 40px;
+    margin-top: 300px;
+    padding-left: 25px;
+    font-weight: 400;
+}
+
+p{
+  
+   padding-left: 25px;
+   margin-top: 30px;
+   color: white;
+   font-size: 25px;
+
+}
+
+.ni {
+    color:black;
+    margin-top: 12px;
+    padding-left: 35px;
+}
+
+.top{
+   width: 100%;
+   height: 30%;
+   background-color: #ffffff;
+}
+
+.bottom{
+    width: 100%;
+    height: 70%;
+    background-color: #fafafa;
+}
+
+.link{
+    color:black;
+    margin-top: 13px;
+    padding-left: 48px;
+}
+
+.formcontrol{
+    width: 770px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #dadada;
+    font-size: 20px;
+    margin-bottom: 25px;
+    margin-top: 70px;
+    margin-left: 59px;
+    height: 63px;
+    background-color: #fafafa;
+}
+
+
+.form{
+    width: 770px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #dadada;
+    font-size: 21px;
+    margin-bottom: 25px;
+    margin-top: 30px;
+    margin-left: 59px;
+    height: 68px;
+    background-color: #fafafa;
+    
+}
+
+.box{
+    margin-left: 59px;
+    color:red;
+    font-size: 20.5px;
+}
+
+.login input{
+    width: 88%;
+    margin-left: 57px;
+    margin-top: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #ffa81a;
+    
+}
+
+.reset{
+    width: 100%;
+    margin-top: 30px;
+    height: 156px;
+}
+
+.inside{
+    width: 50%;
+    height: 50px;
+    margin-left: 300px;
+    margin-top: 46px;
+}
+
+.inside a{
+    font-size: 19px;
+    text-decoration: none;
+    line-height: 2.5;
+    color: red;
+    margin-top: 41px;
+
+}
+
+ul{
+    list-style:none;
+    display: block;
+    font-size: 20px;
+    display: flex;
+}
+
+ul li{
+    padding-left: 50px;
+}
+   
