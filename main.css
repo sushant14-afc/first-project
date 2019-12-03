@@ -6,6 +6,7 @@
 body{
     display: flex;
     justify-content: space-evenly;
+    background: rgba(148, 245, 148, 0.63);
 }
 
 
@@ -13,7 +14,6 @@ body{
 .temp{
     width: 80%;
     height: 854px;
-    border: 1px solid red;
     margin-top: 30px;
     display: flex;
     
@@ -45,7 +45,7 @@ h2{
     font-weight: 400;
 }
 
-p{
+.para{
   
    padding-left: 25px;
    margin-top: 30px;
@@ -54,11 +54,6 @@ p{
 
 }
 
-.ni {
-    color:black;
-    margin-top: 12px;
-    padding-left: 35px;
-}
 
 .top{
    width: 100%;
@@ -74,8 +69,13 @@ p{
 
 .link{
     color:black;
-    margin-top: 13px;
+    border: 1px solid black;
     padding-left: 48px;
+    padding-top: 13px;
+}
+
+.icons{
+    border: 1px solid blue;
 }
 
 .formcontrol{
